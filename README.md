@@ -1,3 +1,8 @@
-# GatoFelix
+# Projeto Gato Félix - Disciplina Informática e Negócios
+Aula do Professor PhD, Bruno Zolotareff dos Santos
+Fatec Mauá- Informática para Negócios 
 
-Sana e Carol <3 
+## Grupo
+
+Sana Soares 
+Caroline Farias
